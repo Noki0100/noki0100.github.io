@@ -1,0 +1,24 @@
+span.codePurple {
+	font-family: "'Courier New', Courier, monospace";
+	color:       #7f297f;
+}
+
+span.codeBlack {
+	font-family: "'Courier New', Courier, monospace";
+	color:       black;
+}
+
+span.codeBlue {
+	font-family: "'Courier New', Courier, monospace";
+	color:       #252599;
+}
+
+span.codeBrown {
+	font-family: "'Courier New', Courier, monospace";
+	color:       #401402;
+}
+
+span.blueItalic {
+	color:       #4f81bd;
+	font-style:  italic;
+}
